@@ -5,7 +5,7 @@ Este projeto foi criado como parte dos meus estudos de HTML5, com o objetivo de 
 ---
 
 ## 🧪 Como visualizar
-[gitPage]()
+[gitPage](https://devisaque03.github.io/FreeCodeCamp-CatPhotoApp-002/)
 
 ---
 
@@ -50,4 +50,4 @@ Este projeto foi criado como parte dos meus estudos de HTML5, com o objetivo de 
 
 **Isaque Samuel**  
 Graduado em Análise e Desenvolvimento de Sistemas – UNIUBE  
-[LinkedIn](www.linkedin.com/in/isaque-cardoso-628881250)
+[LinkedIn](www.linkedin.com/in/isaque-cardoso-dev)
